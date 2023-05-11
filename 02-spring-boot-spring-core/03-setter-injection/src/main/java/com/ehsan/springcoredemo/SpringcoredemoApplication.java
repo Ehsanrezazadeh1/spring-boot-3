@@ -3,13 +3,6 @@ package com.ehsan.springcoredemo;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-/* @SpringBootApplication(
-		scanBasePackages = {"com.ehsan.springcoredmo",
-							"come.ehsan.util"	}
-
-)
-*/
-
 
 
 @SpringBootApplication

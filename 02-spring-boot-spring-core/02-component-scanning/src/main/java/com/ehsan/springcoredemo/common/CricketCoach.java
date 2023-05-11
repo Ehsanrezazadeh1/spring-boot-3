@@ -1,4 +1,4 @@
-package com.ehsan.springcoredemo;
+package com.ehsan.springcoredemo.common;
 
 import org.springframework.stereotype.Component;
 @Component
